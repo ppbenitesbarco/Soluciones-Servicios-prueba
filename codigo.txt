@@ -1,0 +1,8 @@
+<h1>Publicaciones</h1>
+		<ul>
+			<li><a href="nuevas cosas/Nueva carpeta/2010 V-Benites-Ecuador-1.pdf" ><img src="pdf icono2.png" width="50px">XXXII CONGRESO INTERAMERICANO DE INGENIERÍA SANITARIA Y AMBIENTAL.</a></li>
+			<li><a href="nuevas cosas/Nueva carpeta/2019 Los sin tierra.pdf"><img src="pdf icono2.png" width="50px">Presentado en el curso abierto “Vulnerabilidades ante desastres socionaturales”.</a></li>
+			<li><a href="nuevas cosas/Nueva carpeta/2020 Mi Huella de Carbono y el cambio climatico.pdf"><img src="pdf icono2.png" width="50px">Presentado en el curso abierto “Cambio climático II”.</a></li>
+			<li><a href="nuevas cosas/Nueva carpeta/2020 Norma Técnica para el agua de consumo humano. Nueva versión nuevos desafíos.pdf"><img src="pdf icono2.png" width="50px">NORMA TÉCNICA PARA EL AGUA DE CONSUMO HUMANO.</a></li>
+			<li></li>
+		</ul>
