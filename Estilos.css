@@ -12,21 +12,6 @@ body {
 	height: 129px;
 	background-color:#003C74;
 }
-#inicio h1 {
-	float: left;
-	color: white;
-	width: 30%;
-	text-align: center;
-	font-size: 200%;
-	margin-top: 2%;
-}
-#inicio h2 {
-	color: white;
-	font-size: 15px;
-	position: absolute;
-	top: 20%;
-	left: 32%;
-}
 #logo {
 	width: 130px;
 	float: left;
@@ -38,12 +23,36 @@ body {
 	margin-left: 20px;
 	margin-top: 5px;
 }
+#ssa {
+	width: 30%;
+	height: 129px;
+	float: left;
+}
+#inicio h1 {
+	color: white;
+	text-align: center;
+	font-size: 200%;
+	margin-top: 7%;
+}
+#inicio h2 {
+	color: white;
+	font-size: 15px;
+	position: absolute;
+	top: 100px;
+	left: 32%;
+}
 #botones {
-	width: 100%;
+	width: 40%;
+	height: 129px;
+	float: right;
+}
+#botones ul {
+	float: right;
+	width: 150%;
+	height: 129px;
 }
 #botones li {
-	width: 12%;
-	height:129px;
+	width: 20%;
 	float:left;
 	line-height:130px;
 	text-align:center;
@@ -52,6 +61,7 @@ body {
 
 }
 #botones li a {
+	height: 129px;
 	display:block;
 	color:white;
 	text-decoration:none;
